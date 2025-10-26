@@ -3,7 +3,6 @@
 <div align="center">
 
 ![Perl](https://img.shields.io/badge/Perl-5+-39457E?style=for-the-badge&logo=perl&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=for-the-badge)
 
 *A simple and interactive Perl script that counts letter 'a' occurrences in real-time*
